@@ -1,0 +1,11 @@
+{
+  "name": "calendar-stats",
+  "version": "1.0.0",
+  "description": "Get to know what do you spend time on!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Naerriel",
+  "license": "ISC"
+}
